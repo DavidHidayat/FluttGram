@@ -41,6 +41,5 @@ app.*.symbols
 app.*.map.json
 
 
-
 build/app/outputs/flutter-apk/*
 build/app/outputs/apk/debug/*
